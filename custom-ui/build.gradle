@@ -35,7 +35,7 @@ dependencies {
 }
 
 ext {
-  PUBLISH_GROUP_ID = 'com.pierfrancescosoffritti.androidyoutubeplayer'
+  PUBLISH_GROUP_ID = 'io.github.christiansasig.android-youtube-player'
   PUBLISH_VERSION = versions.publishVersion_core
   PUBLISH_ARTIFACT_ID = 'custom-ui'
   PUBLISH_DESCRIPTION = 'Custom UI to use with android-youtube-player core module.'
